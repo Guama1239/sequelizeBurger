@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "tfr64n8d4olflbpi",
-    "password": "vsgkapvxgzae6ffi",
+    "username": "root",
+    "password": "password",
     "database": "sburgers_db",
-    "host": "cdm1s48crk8itlnr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
